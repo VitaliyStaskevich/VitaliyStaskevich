@@ -1,5 +1,5 @@
 # 💫 About Me:
-BSU student, currently working on machine learning projects. 
+BSU student, currently working on frontend and machine learning projects. 
 
 
 # 💻 Tech Stack:
